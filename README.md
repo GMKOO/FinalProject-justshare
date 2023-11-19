@@ -71,20 +71,24 @@
 <img width="312" alt="대화나가기 차단하기" src="https://github.com/GMKOO/FinalProject-justshare/assets/130493398/0fbe354a-ae0c-48a1-8f0c-acc19d4597e1">
 <br>
 
-## 🎞 개인 파트 시연 영상
-
+## 🎞 개인 파트 시연 영상 - 신규메세지알림,거래기능
 
 https://github.com/GMKOO/FinalProject-justshare/assets/130493398/01bd2449-1256-402c-88db-7aec13302e76
 
+## 🎞 실시간 접속 online,offline 업데이트 기능
 
 https://github.com/GMKOO/FinalProject-justshare/assets/130493398/ce977307-d1f0-44f4-8916-87d9887d8030
+
+## 🎞 메세지 카운트 기능 및 거래 완료 기능
 
 
 https://github.com/GMKOO/FinalProject-justshare/assets/130493398/4acfad48-d1e6-4be0-b477-92870376f52b
 
+## 🎞 차단기능
 https://github.com/GMKOO/FinalProject-justshare/assets/130493398/2e0c75b9-acb0-4c35-b35a-8b139d7e546d
 
 
+## 🎞 차단해제 기능
 https://github.com/GMKOO/FinalProject-justshare/assets/130493398/36232820-e5f6-4bd9-858e-236ca2f0b1c2
 
 
