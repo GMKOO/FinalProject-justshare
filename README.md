@@ -8,7 +8,7 @@
 ## 🖥️ 프로젝트 소개
 고객들이 직접 공간 제공자와 사용자로 참여하는 직거래 플랫폼 
 
-예)를 들어 당근마켓에 지역 및 위치 기반, 개인간 소통에 장점과 에어비앤비에 Share (공간 공유 및 재임대) 아이디어를 활용함.
+예 를 들어 당근마켓에 지역 및 위치 기반, 개인간 소통에 장점과 에어비앤비에 Share (공간 공유 및 재임대) 아이디어를 활용함.
 <br>
 
 ## 🕰️ 개발 기간
@@ -39,6 +39,7 @@
 - sock.js 활용해 MPA에 단점인 페이지 이동시 소켓 끊김을 사용자가 못느끼게 개발함.
 - socket.js파일을 만들어 footer에 넣고 모든 페이지 웹소켓 연결 및 페이지별 기능 별도 구현 socket.js, socket2.js 등
 - 채팅 페이지는 jsp에서 CSR방식으로 동적생성을 통해 SPA로 구성함. 채팅목록리스트 및 채팅방
+- 읽지 않은 메세지 확인시 신규 메세지 카운트 초기화
 - chat1.jsp , java.chat 폴더 , socket.mapper 
   
 #### 알림 기능 - <a href="https://github.com/GMKOO/FinalProject-justshare/blob/master/JustShare/src/main/webapp/WEB-INF/view/chat1.jsp" >상세보기 - 이동</a>
