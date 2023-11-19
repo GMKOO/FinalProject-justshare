@@ -37,7 +37,7 @@
 - sock.js 활용해 MPA에 단점인 페이지 이동시 소켓 끊김을 사용자가 못느끼게 개발함.
 - socket.js파일을 만들어 footer에 넣고 모든 페이지 웹소켓 연결 및 페이지별 기능 별도 구현 socket.js, socket2.js 등
 - 채팅 페이지는 jsp에서 CSR방식으로 동적생성을 통해 SPA로 구성함. 채팅목록리스트 및 채팅방
-- chat1.jsp
+- chat1.jsp , java.chat 폴더 , socket.mapper 
   
 #### 알림 기능 - <a href="https://github.com/GMKOO/FinalProject-justshare/blob/master/JustShare/src/main/webapp/WEB-INF/view/chat1.jsp" >상세보기 - 이동</a>
 - 사용자와 첫 대화시 신규 메세지 알람 팝업 - 클릭시 대화 목록 리스트로 이동
@@ -47,7 +47,7 @@
 - footer에 모든 사용자에 읽지 않은 신규 메세지 합산 count 기능
 - 대화 사용자 접속여부 실시간 확인 및 실시간 업데이트 기능 online,offline 실시간 반영
 - 토스트 라이브러리 활용
-- chat1.jsp
+- chat1.jsp, java.chat 폴더 , socket.mapper 
 
 
 ## ✨ 주요 이미지
