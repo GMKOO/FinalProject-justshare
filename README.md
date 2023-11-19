@@ -75,24 +75,6 @@
 
 -신규 메세지 알림 및 거래 기능
 https://github.com/GMKOO/FinalProject-justshare/assets/130493398/01bd2449-1256-402c-88db-7aec13302e76
-<br>
-
--실시간 접속 online,offline 업데이트 기능
-https://github.com/GMKOO/FinalProject-justshare/assets/130493398/ce977307-d1f0-44f4-8916-87d9887d8030
-<br>
-
--메세지 카운트 기능 및 거래 완료 기능
-https://github.com/GMKOO/FinalProject-justshare/assets/130493398/4acfad48-d1e6-4be0-b477-92870376f52b
-<br>
-
--차단기능
-https://github.com/GMKOO/FinalProject-justshare/assets/130493398/2e0c75b9-acb0-4c35-b35a-8b139d7e546d
-<br>
-
--차단해제 기능
-https://github.com/GMKOO/FinalProject-justshare/assets/130493398/36232820-e5f6-4bd9-858e-236ca2f0b1c2
-<br>
-
 
 
 
