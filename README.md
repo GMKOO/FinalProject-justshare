@@ -73,7 +73,7 @@
 
 ## 🎞 개인 파트 시연 영상
 
--신규 메세지 알림 및 거래 기능
+
 https://github.com/GMKOO/FinalProject-justshare/assets/130493398/01bd2449-1256-402c-88db-7aec13302e76
 
 
