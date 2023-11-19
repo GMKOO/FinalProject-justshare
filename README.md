@@ -31,8 +31,9 @@
 - 게시물 거래하기를 통해 판매자와 실시간 채팅 및 대화 목록 리스트 에서 이전 상대와 최근 마지막 대화 및 시간 표시
 - 사용자별 대화 목록 리스트 Ajax를 활용해 실시간 사용자 검색기능
 - 대화방 나가기 기능, 차단 기능
-- sock.js 활용해 Mpa에 단점인 페이지 이동시 소켓 끊김을 사용자가 못느끼게 개발함.
+- sock.js 활용해 MPA에 단점인 페이지 이동시 소켓 끊김을 사용자가 못느끼게 개발함.
 - socket.js파일을 만들어 footer에 넣고 모든 페이지 웹소켓 연결 및 페이지별 기능 별도 구현 socket.js, socket2.js 등
+- 채팅 페이지는 jsp에서 CSR방식으로 동적생성을 통해 SPA로 구성함. 채팅목록리스트 및 채팅방
 - chat1.jsp
   
 #### 알림 기능 - <a href="https://github.com/GMKOO/movieproject/tree/master/movie/src/main/java/com/movie/web/mhome" >상세보기 - 이동</a>
