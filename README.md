@@ -30,7 +30,7 @@
 
 ## 📌 개인 주요 기능 
 
-#### 실시간 채팅 기능 - <a href="https://github.com/GMKOO/movieproject/tree/master/movie/src/main/webapp/WEB-INF/views" >상세보기 - 이동</a> 
+#### 실시간 채팅 기능 - <a href="https://github.com/GMKOO/FinalProject-justshare/blob/master/JustShare/src/main/webapp/WEB-INF/view/chat1.jsp" >상세보기 - 이동</a> 
 - 게시물 거래하기를 통해 판매자와 실시간 채팅 및 대화 목록 리스트 에서 이전 상대와 최근 마지막 대화 및 시간 표시
 - 사용자별 대화 목록 리스트 Ajax를 활용해 실시간 사용자 검색기능
 - 대화방 나가기 기능, 차단 기능
@@ -39,7 +39,7 @@
 - 채팅 페이지는 jsp에서 CSR방식으로 동적생성을 통해 SPA로 구성함. 채팅목록리스트 및 채팅방
 - chat1.jsp
   
-#### 알림 기능 - <a href="https://github.com/GMKOO/movieproject/tree/master/movie/src/main/java/com/movie/web/mhome" >상세보기 - 이동</a>
+#### 알림 기능 - <a href="https://github.com/GMKOO/FinalProject-justshare/blob/master/JustShare/src/main/webapp/WEB-INF/view/chat1.jsp" >상세보기 - 이동</a>
 - 사용자와 첫 대화시 신규 메세지 알람 팝업 - 클릭시 대화 목록 리스트로 이동
 - 거래요청 알람 팝업 -클릭시 거래화면으로 이동
 - 거래완료 알람 팝업 -클릭시 리뷰작성으로 이동
